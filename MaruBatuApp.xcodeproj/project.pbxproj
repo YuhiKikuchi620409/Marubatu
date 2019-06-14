@@ -14,6 +14,7 @@
 		4B01817722AB4DC800726600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B01817522AB4DC800726600 /* LaunchScreen.storyboard */; };
 		4B01818222AB4DC800726600 /* MaruBatuAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B01818122AB4DC800726600 /* MaruBatuAppTests.swift */; };
 		4B01818D22AB4DC800726600 /* MaruBatuAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B01818C22AB4DC800726600 /* MaruBatuAppUITests.swift */; };
+		4B01CC9F22B270050037320A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B01CC9E22B270050037320A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4B01818822AB4DC800726600 /* MaruBatuAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaruBatuAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B01818C22AB4DC800726600 /* MaruBatuAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaruBatuAppUITests.swift; sourceTree = "<group>"; };
 		4B01818E22AB4DC900726600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B01CC9E22B270050037320A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4B01816C22AB4DC800726600 /* AppDelegate.swift */,
 				4B01816E22AB4DC800726600 /* ViewController.swift */,
+				4B01CC9E22B270050037320A /* ViewController2.swift */,
 				4B01817022AB4DC800726600 /* Main.storyboard */,
 				4B01817322AB4DC800726600 /* Assets.xcassets */,
 				4B01817522AB4DC800726600 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				4B01816F22AB4DC800726600 /* ViewController.swift in Sources */,
 				4B01816D22AB4DC800726600 /* AppDelegate.swift in Sources */,
+				4B01CC9F22B270050037320A /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
